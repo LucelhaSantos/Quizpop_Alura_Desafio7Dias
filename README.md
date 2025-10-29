@@ -1,6 +1,6 @@
 # quiz_pop
 
-A new Flutter project.
+Fazendo minha Primeira Aplicação com o Flutter!
 
 ## Getting Started
 
